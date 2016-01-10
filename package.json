@@ -1,6 +1,6 @@
 {
   "name": "karma-saucelabs-browsers",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Autoprefixer-like browsers matching for Karma + SauceLabs",
   "keywords": [ "karma", "karma-plugin", "saucelabs", "browserslist" ],
   "homepage": "https://github.com/deepsweet/karma-saucelabs-browsers",
